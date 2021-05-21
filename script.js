@@ -36,6 +36,16 @@ const reviews = [
     text:
       "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
   },
+  {
+    id: 5,
+    name: "Kartik Aron",
+    job: "the Fresher",
+    img:
+      ".jpg",
+    text:
+      "hello this is my profiles discription. ",
+  },
+  
 ];
 // select items
 const img = document.getElementById("person-img");
