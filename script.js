@@ -41,7 +41,7 @@ const reviews = [
     name: "Kartik Aron",
     job: "the Fresher",
     img:
-      ".jpg",
+      "IMG_20191126_234016_591.jpg",
     text:
       "hello this is my profiles discription. ",
   },
